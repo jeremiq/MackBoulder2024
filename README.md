@@ -1,4 +1,4 @@
-# MacBoulder2024
+# MackBoulder2024
 Resources from my Feb 2024 talk at Mack Boulder
 
 # Slides
