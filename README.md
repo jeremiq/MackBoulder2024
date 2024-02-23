@@ -1,5 +1,5 @@
 # MackBoulder2024
-Resources from my Feb 2024 talk at Mack Boulder
+Resources from my Feb 2024 talk at [Mack Boulder](https://mackboulder.com/)
 
 # Slides
 [SageAI-MackBoulder-2024.pdf](./SageAI-MackBoulder-2024.pdf)
