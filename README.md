@@ -10,4 +10,4 @@ Resources from my Feb 2024 talk at Mack Boulder
 - https://www.teensinai.com/global-techathon/
 - https://github.com/ggerganov/llama.cpp
 - On the Dangers of Stochastic Parrots... 🦜 (Wikipedia, with references: https://en.wikipedia.org/wiki/Stochastic_parrot )
-- This talk😝: https://github.com/jeremiq/MacBoulder2024
+- This talk😝: https://github.com/jeremiq/MackBoulder2024
