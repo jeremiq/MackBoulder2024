@@ -5,7 +5,7 @@ Resources from my Feb 2024 talk at [Mack Boulder](https://mackboulder.com/)
 [SageAI-MackBoulder-2024.pdf](./SageAI-MackBoulder-2024.pdf)
 
 # Resources
-- Me: jeremiah.edward [at] sage.com (put Mack Boulder in your subject and I'll get back to you  )
+- Me: jeremiah.edwards [at] sage.com (put Mack Boulder in your subject and I'll get back to you  )
 - https://machinelearningforkids.co.uk/
 - https://www.teensinai.com/global-techathon/
 - https://github.com/ggerganov/llama.cpp
